@@ -1,10 +1,10 @@
-<mxfile host="processflow.sharehoo.cn" modified="2021-04-07T06:28:54.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JJ0SWqiXkb7TvTtUzWVQ" version="14.3.2" type="github">
+<mxfile host="processflow.sharehoo.cn" modified="2021-04-07T06:30:12.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="xp9c6-nH2v4nlrfEwkXF" version="14.3.2" type="github">
   <diagram id="ALSrLkM7NoTAbwWm-Tqr" name="Page-1">
     <mxGraphModel dx="3197" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fcsJN2qr-9h00e084uWn-1" value="" style="endArrow=none;html=1;fontSize=19;fontStyle=1;labelBackgroundColor=#FF1B0A;strokeColor=#FF0818;" parent="1" edge="1">
+        <mxCell id="fcsJN2qr-9h00e084uWn-1" value="" style="endArrow=none;html=1;fontSize=19;fontStyle=1;labelBackgroundColor=#FF1B0A;strokeColor=#FF0818;strokeWidth=5;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-30" y="850" as="sourcePoint" />
             <mxPoint x="2480" y="850" as="targetPoint" />
